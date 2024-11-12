@@ -23,8 +23,13 @@ For Sorting Containers to function, they need to be given at least one item as a
 This is done by shift + right-clicking a Sorting Container with a **Network Wand** on **Filter Mode** in the main hand and your filter item in the offhand.  
 To remove the filter, do the same, but shift + left click.
 
+When on **Filter** mode, the entire item type is added as a filter.
+
+When on **Strict Filter** mode, only this specific item with its metadata is added.
+
+
 If you have multiple sorting containers with the same filter or multiple miscellaneous containers, you can set their priority, so that higher priority components will be filled first.
 
-(Sorting containers are ALWAYS prioritized over Miscellaneous containers) 
+(By default, sorting containers are prioritized over misc containers)
 
 To change a component's priority, make sure your wand is set to **Priority Mode** and shift + right/left click on a Sorting/Miscellaneous container.
