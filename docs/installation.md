@@ -1,8 +1,8 @@
 Requirements:
 
-*   A Server running Paper or 1.19.3 or later
+*   A Server running Paper 1.20.1 or later
 
-Download the plugin .JAR from [Modrinth](https://modrinth.com/plugin/networks) or [Hangar](https://hangar.papermc.io/NanoFlux/Networks)
+Download the plugin .JAR from [Modrinth](https://modrinth.com/plugin/networks) or [Hangar](https://hangar.papermc.io/Kwantux/Networks)
 
 Put this file into the `[serverfiles]/plugins/` folder.
 
