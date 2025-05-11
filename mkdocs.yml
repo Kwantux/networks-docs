@@ -1,4 +1,4 @@
-site_name: Networks Wiki
+site_name: Networks Docs
 
 nav:
   - Home:
@@ -63,3 +63,5 @@ theme:
     toggle:
       icon: material/weather-night
       name: Switch to light mode
+
+copyright: <a href="https://kwantux.de/imprint.html">&#10140; Contact & Imprint</a>
