@@ -8,13 +8,14 @@ To add a component into your network, you first need to craft it at the crafting
 
 The recipes should be unlocked at join, make sure the recipe book is set to “Show all” and not “Only craftable”.
 
-After [selecting the network](/basics), the components should be installed in, just place down the component you crafted.
+After [selecting the network](/basics), the component can be installed in chests by right clicking them.
 
 You should receive a confirmation message in chat.
 
+
 For further editing, you need a **Network Wand**, which can also be crafted.
 
-Using left-click (without shift), you can switch between filter editing and priority editing mode.
+Using left-click (without shift), you can switch between regular filter, strict filter and priority editing mode.
 
 By right-clicking on a network component, you can see basic information about it.
 
