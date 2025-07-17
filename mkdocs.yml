@@ -11,7 +11,10 @@ nav:
     - Commands: commands.md
     - Users: users.md
     - Merging: merging.md
-
+    - Admin Commands: admin-commands.md
+    - Addons: addons.md
+  - Terminals:
+    - Home: terminals/index.md
     
 
 theme:

@@ -1,6 +1,4 @@
-Requirements:
-
-*   A Server running Paper 1.20.1 or later
+A Server running Paper 1.20.6 or later is required.
 
 Download the plugin .JAR from [Modrinth](https://modrinth.com/plugin/networks) or [Hangar](https://hangar.papermc.io/Kwantux/Networks)
 
