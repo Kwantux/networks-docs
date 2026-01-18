@@ -1,1 +1,0 @@
-If you have questions about the plugin, feel free to ask them on our [Discord](https://discord.gg/Q65TqRwnce)

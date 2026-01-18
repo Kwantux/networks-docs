@@ -16,9 +16,7 @@ nav:
     - Addons: admin/addons.md
   - Terminals:
     - Home: terminals/index.md
-  - Bugs: bugs.md
-  - Social: social.md
-    
+  - Bugs: bugs.md    
 
 theme:
   name: material
