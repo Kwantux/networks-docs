@@ -1,0 +1,2 @@
+Networks is developed as a hobby project and distributed entirely for free.
+If you find the plugin useful, please consider [donating](https://ko-fi.com/kwantux) to support the development of the plugin.
