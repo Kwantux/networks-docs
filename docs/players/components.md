@@ -10,7 +10,7 @@ To add a component into your network, you first need to craft it at the crafting
 
 The recipes should be unlocked at join, make sure the recipe book is set to “Show all” and not “Only craftable”.
 
-After [selecting the network](/basics), the component can be installed in containers by right clicking them.
+After [selecting the network](/players/basics), the component can be installed in containers by right clicking them.
 
 You should receive a confirmation message in chat.
 
@@ -24,7 +24,7 @@ Using this method, items are sent into the network immediately and fully automat
 
 Input containers have a limited range they can transfer items to.
 You can increase this range by crafting antennas and placing them on the input container.
-More information on antennas can be found [here](/range).
+More information on antennas can be found [here](/players/range).
 
 Unless your network is full or you're using another mechanic to add items to the input containers, there should be no way of having items left over in the input containers.
 If you do manage to have items left over (when the network is not full), please report it on [Discord](https://discord.gg/Q65TqRwnce) or create a [Github Issue](https://github.com/Kwantux/networks/issues/new).
