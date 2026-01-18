@@ -5,6 +5,7 @@ nav:
     - Home: index.md
     - Introduction: players/basics.md
     - Components: players/components.md
+    - Wand: players/wand.md
     - Commands: players/commands.md
     - Ranges: players/range.md
     - Users: players/users.md
