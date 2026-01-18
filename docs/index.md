@@ -9,3 +9,6 @@ You can download the plugin at [Modrinth](https://modrinth.com/plugin/networks) 
 If you have questions, feel free to ask them on our [Discord Server](https://discord.gg/Q65TqRwnce)
 
 If you found a bug, you can create a [Github Issue](https://github.com/Kwantux/networks/issues/new)
+
+Current manual version: Networks 3.1.4
+Last changed: 18.01.2026

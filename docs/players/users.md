@@ -1,4 +1,4 @@
-Without any other plugins, ALL players can open your network's chests and take items out of it.
+Without any other plugins, ALL players can open your network's containers and take items out of it.
 
 If you wish that only certain player are able to access them, just use any other claim plugin.
 

@@ -44,6 +44,10 @@ Transfer the ownership of the network to another player
 
 (Requires being network owner or having OP perms)
 
+### /net info
+
+Lists information about your selected network
+
 ### /net items
 
 Lists all items in your network

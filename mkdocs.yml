@@ -1,20 +1,23 @@
 site_name: Networks Docs
 
 nav:
-  - Home:
+  - For players:
     - Home: index.md
-    - Installation: installation.md
-    - Bugs: bugs.md
-    - Social: social.md
-    - Introduction: basics.md
-    - Components: components.md
-    - Commands: commands.md
-    - Users: users.md
-    - Merging: merging.md
-    - Admin Commands: admin-commands.md
-    - Addons: addons.md
+    - Introduction: players/basics.md
+    - Components: players/components.md
+    - Commands: players/commands.md
+    - Ranges: players/range.md
+    - Users: players/users.md
+    - Merging: players/merging.md
+  - For admins:
+    - Installation: admin/installation.md
+    - Configuration: admin/config.md
+    - Admin commands: admin/admin-commands.md
+    - Addons: admin/addons.md
   - Terminals:
     - Home: terminals/index.md
+  - Bugs: bugs.md
+  - Social: social.md
     
 
 theme:
