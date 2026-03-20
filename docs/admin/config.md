@@ -6,6 +6,9 @@ A second config specifically for crafting recipes is located at `<serverfiles>/p
 The language of the plugin is set in the general config with the `lang` option.
 By default, English and German are available, but you can add your own language by adding a new file to the `lang` folder using the same syntax as the other files.
 
+If you just want to change the wording of a message, copy the `lang/en.yml` file to a new file in the `lang` folder and edit the copy. Then, set the `lang` option in the general config to the name of your new file (without the `.yml` extension).
+Don't edit the default languages 'en' and 'de' directly, as they will be overwritten on server start.
+
 ## Command aliases
 
 `/networks` is always available.
